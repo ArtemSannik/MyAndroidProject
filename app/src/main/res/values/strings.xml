@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DiplomAndroid</string>
+    <string name="projectName">Сокращение Ссылок</string>
+    <string name="info">Введите вашу полную ссылку</string>
+    <string name="title">Введите вашу сокращенную ссылку</string>
+    <string name="link_info">Ваши сокращенные ссылки:</string>
+    <string name="btn">Добавить</string>
+</resources>
